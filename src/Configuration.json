@@ -1,0 +1,6 @@
+{
+    "DefaultConnectionMethod": "Token",
+    "Workdir": "output",
+    "FileFormat": "yaml",
+    "Beta": false
+}
